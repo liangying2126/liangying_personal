@@ -4,6 +4,6 @@ My research interests are emprical labor economics, labor and corporte finance a
 
 
 
-__[Curriculum Vitae](/pdf/CV_Liang_202404.pdf")__ (Updated May 2024)
+__[Curriculum Vitae](/pdf/cv_Liang_202404.pdf")__ (Updated April 2024)
 
 <!--  __[Research Statement](/pdf/Rao Research Statement.pdf")__ -->
