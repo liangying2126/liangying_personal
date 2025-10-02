@@ -4,6 +4,6 @@ My research interests are empirical labor economics, labor and corporate finance
 
 
 
-__[Curriculum Vitae](/pdf/cv_Liang_202404.pdf)__ (Updated April 2024)
+__[Curriculum Vitae](/pdf/cv_Liang_202510.pdf)__ (Updated October 2025)
 
 <!--  __[Research Statement](/pdf/Rao Research Statement.pdf")__ -->

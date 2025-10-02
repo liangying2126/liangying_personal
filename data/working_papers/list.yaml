@@ -1,4 +1,12 @@
 works:
+- title: "Firms’ Risk Adjustments to Minimum Wage:
+Financial Leverage and Labor Share Trade-off"
+  pdflink: "/pdf/JMP_MW_Leverage_YingLiang.pdf"
+  book: "Job Market Paper"
+  note: "Current Version: July 2025"
+  abstract: >
+      This paper evaluates the impact of the German minimum wage policy on firms’ financial leverage, using firm-level variation in treatment intensity. The results show that the minimum wage reduces financial leverage by 0.5 to 0.9 percentage points (1–2% of the mean). Mechanism analysis indicates that the minimum wage increases firms’ labor share, reflecting higher operating risk and firms substitute it by deleveraging. The rise in labor share is closely tied to changes in production: on the input side, there is no significant capital–labor substitution; on the output side, value added rises and is redistributed more toward labor. Firms’ risk substitution behavior enhances firm resilience following the reform and during the pandemic. Overall, while the minimum wage benefits workers by allocating more earnings to the labor force, it also introduces greater operating risks and encourages conservative financial behavior among firms.
+
 
 - title: "The Devil is in the Details:
 Heterogeneous Effects of the German Minimum Wage
@@ -10,12 +18,10 @@ on Working Hours and Minijobs"
   links:
     - url: "https://arxiv.org/abs/2403.17206"
   abstract: >
-      In 2015, Germany introduced a national minimum wage. While the literature agrees on at most limited negative effects on the overall employment level, we go into detail and analyze the impact on the working hours dimension and on the subset of minijobs. Using data from the German Structure of Earnings Survey in 2010, 2014, and 2018, we find empirical evidence that the minimum wage significantly reduces inequality in hourly and monthly wages. While various theoretical mechanisms suggest a reduction in working hours, these remain unchanged on average. However, minijobbers experience a notable reduction in working hours which can be linked to the specific institutional framework. Regarding employment, the results show no effects for regular jobs, but there is a noteworthy decline in minijobs, driven by transitions to regular employment and non-employment. The transitions in non-employment imply a wage elasticity of employment of -0.1 for minijobs. Our findings highlight that the institutional setting leads to heterogeneous effects of the minimum wage.
+	Germany introduced a national minimum wage in 2015. While prior studies find limited effects on overall employment, we go into detail and examine its impact on working hours and minijobs. The minimum wage significantly reduces inequality in hourly and monthly wages. Average working hours remain stable, despite various theoretical considerations favoring reductions. However, minijobbers experience notable cuts in working hours, reflecting institutional constraints. Employment in regular jobs remains unaffected, but minijobs decline, driven by transitions into both regular jobs and non-employment. The latter implies an employment elasticity of −0.16 for minijob employment. Following the first major minimum wage increase in 2022, we reveal a reduction in working hours that is not limited to minijobs, corresponding to an employment volume elasticity of −0.38.
 
-- title: "Firms’ Risk Adjustments to Minimum Wage:
-Financial Leverage and Labor Share Trade-off"
-  pdflink: "/pdf/MW_Firms_Risk_Adjustments.pdf"
-  book: "Working paper"
-  note: "Current Version: August 2024"
+
+
+- title: "Unpacking Wage Inequality: Minimum Wage Effects on Within- and Between-Firm Disparities"
   abstract: >
-      This paper evaluates the impact of the German minimum wage policy on firms’ financial leverage. By using a comprehensive firm-establishment-employee linked dataset and a differencein-differences estimation with firm-level variation in treatment intensity, the analysis shows that the average minimum wage level reduces firms’ financial leverage by about 0.5 to 0.9 percentage points, corresponding to 1 to 2 percent of the mean of financial leverage. Further investigation of the mechanism shows that the minimum wage does not lead to significant capitallabor substitution; therefore, the labor share increases. Firms react to the increased labor share by deleveraging. The results suggest that while the minimum wage benefits workers by allocating more earnings to the labor force, it also introduces greater operating risks and encourages conservative financial behavior among firms.
+		This paper investigates how minimum wage policies can reduce wage inequality by influencing within and between firm inequality. Using rich administrative employer-employee linked data from Germany, I exploit the introduction of the national minimum wage in 2015 to analyze changes in the overall variance of daily wages and decompose these changes into within-firm and between-firm components. The Difference-in-Differences estimations reveal that the minimum wage lowers the overall variance of log daily wages by 8% to 12.6%. Crucially, most of this reduction stems from declines in between-firm variance, driven by decreases in worker-firm assortativeness, worker segregation, and the dispersion of firm-specific wage premia. I also detect substantial spillover effects among firms that were not directly exposed to the minimum wage requirement, accounting for 12% to 37% of the total drop in wage inequality.
