@@ -5,6 +5,6 @@ I explore how labor regulations shape firm behavior, wage setting, and income di
 
 
 
-__[Curriculum Vitae](/pdf/cv_Liang_202510.pdf)__ (Updated October 2025)
+__[Curriculum Vitae](/pdf/cv_2.pdf)__ (Updated November 2025)
 
 <!--  __[Research Statement](/pdf/Rao Research Statement.pdf")__ -->
